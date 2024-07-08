@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "typescript": "^4.3.5",
+    "react-scripts": "4.0.3",
+    "@expo/vector-icons": "^14.0.2",
+    "react-native-paper": "4.9.2"
+  }
+}
